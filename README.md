@@ -1,4 +1,3 @@
-# REG-FPS.exe
 <h1 align="center">Hi 👋, I'm REG FPS.exe</h1>
 <h3 align="center">🛠️Emulator Developer | Gamer Extraordinaire</h3>
 
